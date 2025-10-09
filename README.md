@@ -1,4 +1,4 @@
-# 🎓 Code Academy Gatekeeper App
+Gatekeeper App
 
 A simple Node.js app that allows students to **signup** and **login** using a `users.json` file.
 
